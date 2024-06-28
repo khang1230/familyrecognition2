@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(150, 221, 161);
+}
+
+.header{
+    height: 50px;
+    width: 100%;
+    font-size: 28px;
+    background-color: rgb(233, 168, 168);
+    color: black;
+    padding-top: 10px;
+    font-weight: 800;
+}
+
+.hint{
+    color: white;
+}
+
+.family{
+    background-color: cadetblue;
+    border-radius: 20px;
+    height: 260px;
+    padding-top: 10px;
+    width: 45%;
+}
+
+.objects{
+    color: white;
+    font-size: 30px;
+}
+
+.objects label{
+    background-color: aquamarine;
+    display: block;
+    width: 40%;
+}
+
+.Object {
+    color: white;
+    font-size: 30px;
+}
+
+.video{
+    background-color: cadetblue;
+    width: 45%;
+    border-radius: 15px;
+    height: 670px;
+    padding-top: 15px;
+}
+
+.imgBtn{
+    width: 380px;
+    height: 45px;
+    font-size: 20px;
+    border: 5px ridge blue;
+    padding-bottom: 10px;
+}
